@@ -1,3 +1,10 @@
+:warning: :warning: :warning:
+
+This repository is a blueprint to show how the Instana agent installation and configuration can be automated with Chef and is intended for others to fork and build upon. It is not actively maintained. 
+If you have introduce new functionality on your fork that you think is useful for others, get in touch so we can link to it from here.
+
+:warning: :warning: :warning:
+
 # instana-agent Cookbook
 
 This [Chef](https://chef.io) cookbook installs, configures and runs the monitoring agent for the [Instana monitoring suite](https://www.instana.com).
